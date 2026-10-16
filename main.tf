@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "Sarya1"
+  name     = "ram"
   location = "West US"
 
   tags = {
